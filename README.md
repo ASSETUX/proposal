@@ -162,7 +162,3 @@ const receipt = await tx.wait();
 ## 📜 License
 
 MIT — free to fork, modify, and use for public or commercial purposes.
-
----
-
-Let me know if you’d like this converted into a voting-based DAO-compatible version!
